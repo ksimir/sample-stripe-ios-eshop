@@ -1,0 +1,6 @@
+framework module Pods_techGoods_techGoodsUITests {
+  umbrella header "Pods-techGoods-techGoodsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

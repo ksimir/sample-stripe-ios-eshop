@@ -1,0 +1,6 @@
+framework module Pods_techGoods {
+  umbrella header "Pods-techGoods-umbrella.h"
+
+  export *
+  module * { export * }
+}
